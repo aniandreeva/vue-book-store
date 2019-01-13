@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Домът на мис Перигрин за чудати деца, книга 4: Атлас на дните",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/d/o/domat-na-mis-perigrin-za-chudati-detsa-kniga-4-atlas-na-dnite-9789546559012.jpg",
+      "price": 29.99,
+      "author": "Рансъм Ригс",
+      "publishers": "Бард"
+    },
+    {
+      "id": 2,
+      "title": "Паднали ангели",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/p/a/padnali-angeli-9789547831148.jpg",
+      "price": 14.99,
+      "author": "Лорън Кейт",
+      "publishers": "Интенс"
+    },
+    {
+      "id": 3,
+      "title": "Мерлин, Книга 2: Седемте песни",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/9/7/9789542928522.jpg",
+      "price": 13.99,
+      "author": "Т. А. Барън",
+      "publishers": "PRObook"
+    }
+  ],
+  "student-books": [
+    {
+      "id": 1,
+      "title": "Сборник по Математика за 1. клас",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/s/b/sbornik-po-matematika-za-1.-klas1.jpg",
+      "price": 4.00,
+      "author": "Здравка Новакова",
+      "publishers": "Хермес"
+    },
+    {
+      "id": 2,
+      "title": "Сборник по Математика за 2. клас",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/s/b/sbornik-po-matematika-za-2.-klas1.jpg",
+      "price": 4.00,
+      "author": "Здравка Новакова",
+      "publishers": "Хермес"
+    },
+    {
+      "id": 3,
+      "title": "Сборник по Математика за 3. клас",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/s/b/sbornik-po-matematika-za-3.-klas1.jpg",
+      "price": 4.00,
+      "author": "Здравка Новакова",
+      "publishers": "Хермес"
+    }
+  ],
+  "for-students": [
+    {
+      "id": 1,
+      "title": "Двувърхи флумастери Staedtler, 72 цвята",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/d/v/dvuvurhi-flumasteri-staedtler-72-cvqta-4007817042809.jpg",
+      "price": 44.90,
+      "producer": "Staedtler"
+    },
+    {
+      "id": 2,
+      "title": "Бележник Nici Luis Lama A6, 60 листа на малки квадратчета",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/b/e/belezhnik-nici-luis-lama-4012390422702.jpg",
+      "price": 4.90,
+      "producer": "Nici"
+    },
+    {
+      "id": 3,
+      "title": "Термо чанта Maped Concept, синьо-зелена",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/t/e/termo-chanta-maped-concept-sinio-zelena.jpg",
+      "price": 31.90,
+      "producer": "Maped"
+    },
+    {
+      "id": 4,
+      "title": "Комплект за чертане Maped Twist'n Flex",
+      "imageUrl": "https://www.orangecenter.bg/media/catalog/product/cache/1/image/602f0fa2c1f0d1ba5e241f914e856ff9/3/1/3154148950554.jpg",
+      "price": 6.10,
+      "producer": "Maped"
+    }
+  ]
+}
